@@ -1,6 +1,6 @@
 # imarinzone's Portfolio
 
-Deployed using the **Newspaper** theme from [OneClick Portfolio Bot](https://github.com/oneclick-portfolio/op-bot).
+Deployed using the **Vscode** theme from [OneClick Portfolio Bot](https://github.com/oneclick-portfolio/op-bot).
 
 ## Live Site
 
@@ -8,7 +8,7 @@ https://imarinzone.github.io/newspaper/
 
 ## Theme Source
 
-https://github.com/oneclick-portfolio/awesome-github-portfolio/tree/main/themes/newspaper
+https://github.com/oneclick-portfolio/awesome-github-portfolio/tree/main/themes/vscode
 
 ## Local Preview
 
